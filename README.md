@@ -10,7 +10,7 @@ This repository contains both lab materials and code examples for all the Electr
 
 [Dr. Nicholas J Outram](https://www.plymouth.ac.uk/staff/nicholas-outram)
 
-## Table of Contents
+## Table of Contents:
 
 1. [Getting Started](./getting_started/README.md)
 1. [ELEC143 Embedded Systems in Context (Level 4)](./level4/README.md)
