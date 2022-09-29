@@ -29,3 +29,6 @@ int main()
         wait_us(200000); 
     }
 }
+
+//Fix and debug after so that it can understand what the ARM code means on Mbed. 
+//Accessed via the libraries section below and is the circle with the ! in. Do before building and running the task.
